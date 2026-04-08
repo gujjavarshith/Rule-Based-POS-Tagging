@@ -1,0 +1,212 @@
+{
+  "dev_accuracy": 0.8722,
+  "test_accuracy": 0.8763,
+  "dev_per_tag": {
+    "ADJ": {
+      "precision": 0.9127,
+      "recall": 0.8349,
+      "f1": 0.872,
+      "support": 1865
+    },
+    "ADP": {
+      "precision": 0.8588,
+      "recall": 0.8891,
+      "f1": 0.8737,
+      "support": 2038
+    },
+    "ADV": {
+      "precision": 0.9346,
+      "recall": 0.7427,
+      "f1": 0.8277,
+      "support": 1232
+    },
+    "AUX": {
+      "precision": 0.8046,
+      "recall": 0.993,
+      "f1": 0.8889,
+      "support": 1567
+    },
+    "CCONJ": {
+      "precision": 0.983,
+      "recall": 0.9653,
+      "f1": 0.9741,
+      "support": 779
+    },
+    "DET": {
+      "precision": 0.9171,
+      "recall": 0.9611,
+      "f1": 0.9386,
+      "support": 1900
+    },
+    "INTJ": {
+      "precision": 0.4309,
+      "recall": 0.7043,
+      "f1": 0.5347,
+      "support": 115
+    },
+    "NOUN": {
+      "precision": 0.8018,
+      "recall": 0.8772,
+      "f1": 0.8378,
+      "support": 4210
+    },
+    "NUM": {
+      "precision": 0.9136,
+      "recall": 0.8564,
+      "f1": 0.8841,
+      "support": 383
+    },
+    "PART": {
+      "precision": 0.7267,
+      "recall": 0.8671,
+      "f1": 0.7907,
+      "support": 647
+    },
+    "PRON": {
+      "precision": 0.9664,
+      "recall": 0.9308,
+      "f1": 0.9483,
+      "support": 2225
+    },
+    "PROPN": {
+      "precision": 0.846,
+      "recall": 0.7033,
+      "f1": 0.7681,
+      "support": 1867
+    },
+    "PUNCT": {
+      "precision": 0.9831,
+      "recall": 0.9841,
+      "f1": 0.9836,
+      "support": 3075
+    },
+    "SCONJ": {
+      "precision": 0.6491,
+      "recall": 0.6196,
+      "f1": 0.634,
+      "support": 397
+    },
+    "SYM": {
+      "precision": 0.3333,
+      "recall": 0.3827,
+      "f1": 0.3563,
+      "support": 81
+    },
+    "VERB": {
+      "precision": 0.8735,
+      "recall": 0.7983,
+      "f1": 0.8342,
+      "support": 2707
+    },
+    "X": {
+      "precision": 0.2222,
+      "recall": 0.0678,
+      "f1": 0.1039,
+      "support": 59
+    }
+  },
+  "test_per_tag": {
+    "ADJ": {
+      "precision": 0.9109,
+      "recall": 0.8462,
+      "f1": 0.8774,
+      "support": 1788
+    },
+    "ADP": {
+      "precision": 0.8685,
+      "recall": 0.884,
+      "f1": 0.8762,
+      "support": 2025
+    },
+    "ADV": {
+      "precision": 0.9477,
+      "recall": 0.7767,
+      "f1": 0.8537,
+      "support": 1191
+    },
+    "AUX": {
+      "precision": 0.8183,
+      "recall": 0.9955,
+      "f1": 0.8982,
+      "support": 1543
+    },
+    "CCONJ": {
+      "precision": 0.9902,
+      "recall": 0.9633,
+      "f1": 0.9766,
+      "support": 736
+    },
+    "DET": {
+      "precision": 0.9169,
+      "recall": 0.9594,
+      "f1": 0.9377,
+      "support": 1897
+    },
+    "INTJ": {
+      "precision": 0.4533,
+      "recall": 0.843,
+      "f1": 0.5896,
+      "support": 121
+    },
+    "NOUN": {
+      "precision": 0.8054,
+      "recall": 0.8804,
+      "f1": 0.8413,
+      "support": 4123
+    },
+    "NUM": {
+      "precision": 0.8767,
+      "recall": 0.8137,
+      "f1": 0.844,
+      "support": 542
+    },
+    "PART": {
+      "precision": 0.721,
+      "recall": 0.8921,
+      "f1": 0.7975,
+      "support": 649
+    },
+    "PRON": {
+      "precision": 0.9639,
+      "recall": 0.9251,
+      "f1": 0.9441,
+      "support": 2164
+    },
+    "PROPN": {
+      "precision": 0.8759,
+      "recall": 0.7248,
+      "f1": 0.7932,
+      "support": 2075
+    },
+    "PUNCT": {
+      "precision": 0.9835,
+      "recall": 0.9803,
+      "f1": 0.9819,
+      "support": 3096
+    },
+    "SCONJ": {
+      "precision": 0.6059,
+      "recall": 0.5885,
+      "f1": 0.5971,
+      "support": 384
+    },
+    "SYM": {
+      "precision": 0.4476,
+      "recall": 0.5664,
+      "f1": 0.5,
+      "support": 113
+    },
+    "VERB": {
+      "precision": 0.8879,
+      "recall": 0.8119,
+      "f1": 0.8482,
+      "support": 2605
+    },
+    "X": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 42
+    }
+  }
+}
