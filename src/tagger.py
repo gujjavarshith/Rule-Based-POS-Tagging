@@ -47,6 +47,7 @@ class RuleBasedTagger:
     # Innovation extension
     def _load_innovation_rules(self):
         """Import innovation rule modules if available."""
+        self._context_override_fn = None
         try:
             from innovation.prefix_rules import apply as prefix_apply
             self._innovation_rules.append(("prefix", prefix_apply))
@@ -60,6 +61,11 @@ class RuleBasedTagger:
         try:
             from innovation.compound_context import apply as compound_apply
             self._innovation_rules.append(("compound_ctx", compound_apply))
+        except ImportError:
+            pass
+        try:
+            from innovation.context_override import apply as override_apply
+            self._context_override_fn = override_apply
         except ImportError:
             pass
 
@@ -106,29 +112,49 @@ class RuleBasedTagger:
                 tags[i] = tag
                 continue
 
-            # 4. Innovation rules (if enabled, before capitalization)
             if self.use_innovation:
+                # Innovation ordering (data-driven from notebook-05 OOV analysis):
+                #   4a. morphology first — OOV words with clear suffixes (-ing,
+                #       -ment, -tion) are tagged correctly even when capitalised
+                #       mid-sentence, preventing false PROPN tags.
+                #   4b. capitalization — remaining capitalised OOV words → PROPN
+                #   4c. innovation rules — fire last, only for truly unknown tokens;
+                #       compound_ctx also handles sentence-initial PROPN (pos-0
+                #       capitalised words that capitalization_rule skips at pos=0).
+                tag = morphology_rule(w)
+                if tag:
+                    tags[i] = tag
+                    continue
+
+                tag = capitalization_rule(w, position=i)
+                if tag:
+                    tags[i] = tag
+                    continue
+
                 for _name, rule_fn in self._innovation_rules:
-                    tag = rule_fn(w)
+                    if _name == "compound_ctx":
+                        tag = rule_fn(w, words=words, position=i)
+                    else:
+                        tag = rule_fn(w)
                     if tag:
                         tags[i] = tag
                         break
-                if tags[i] is not None:
+
+            else:
+                # Baseline ordering (unchanged):
+                # 4. Capitalization
+                tag = capitalization_rule(w, position=i)
+                if tag:
+                    tags[i] = tag
                     continue
 
-            # 5. Capitalization
-            tag = capitalization_rule(w, position=i)
-            if tag:
-                tags[i] = tag
-                continue
+                # 5. Morphology (suffix)
+                tag = morphology_rule(w)
+                if tag:
+                    tags[i] = tag
+                    continue
 
-            # 6. Morphology (suffix)
-            tag = morphology_rule(w)
-            if tag:
-                tags[i] = tag
-                continue
-
-        #  Pass 3: Context rules for remaining unknowns 
+        #  Pass 3: Context rules for remaining unknowns
         for i, w in enumerate(words):
             if tags[i] is not None:
                 continue
@@ -143,6 +169,13 @@ class RuleBasedTagger:
 
             # 7. Default
             tags[i] = _DEFAULT_TAG
+
+        # Pass 4 (innovation only): context-based correction of already-tagged
+        # tokens.  Fixes systematic errors made by closed_class and lexicon rules
+        # that can only be resolved with full sentence context.
+        # Baseline is NOT affected — this block is entirely guarded.
+        if self.use_innovation and self._context_override_fn is not None:
+            tags = self._context_override_fn(words, tags)
 
         return tags
 

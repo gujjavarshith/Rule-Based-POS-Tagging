@@ -5,20 +5,10 @@ israelians,PROPN,NOUN,and the israelians have all
 Wall,PROPN,NOUN,"work on Wall Street ,"
 Street,PROPN,NOUN,"on Wall Street , after"
 territories,PROPN,NOUN,occupied Palestinian territories during the
-Xinhua,PROPN,NOUN,Xinhua reports that
-Ash,PROPN,NOUN,Ash - Sharq
-Xinhua,PROPN,NOUN,Xinhua alleged that
-Cartoon,PROPN,NOUN,""" Iran Cartoon "" association"
 world,PROPN,NOUN,( second world ) war
 war,PROPN,NOUN,"world ) war , why"
-Shojai,PROPN,NOUN,Shojai told the
-Art,PROPN,NOUN,Palestine Contemporary Art Museum .
 Scholars,PROPN,NOUN,of Muslim Scholars .
-Minister,PROPN,NOUN,assassinate Prime Minister Iyad Allawi
 Minister,PROPN,NOUN,Allawi and Minister of Defense
-Defense,PROPN,NOUN,Minister of Defense Hazem Shaalan
-PM,PROPN,NOUN,"society , PM Allawi is"
-Party,PROPN,NOUN,"Iraqi Islamic Party , which"
 associate,ADJ,NOUN,term as associate judge of
 associate,ADJ,NOUN,term as associate judge of
 succesfull,ADJ,NOUN,wave of succesfull arab attacks
@@ -29,16 +19,16 @@ freewheeling,ADJ,NOUN,quite as freewheeling an environment
 fewest,ADJ,NOUN,for - fewest - features
 fun,ADJ,NOUN,this new fun contest :
 top,ADJ,NOUN,said the top three cartoons
-hottest,ADJ,NOUN,The hottest item on
-slightest,ADJ,NOUN,expresses the slightest concern .
-rambling,ADJ,NOUN,'s a rambling response .
-future,ADJ,NOUN,view the future history of
-non-Microsoft,ADJ,NOUN,most popular non-Microsoft browser out
-chief,ADJ,NOUN,3 his chief aide in
-couple,ADJ,NOUN,actually a couple would probably
-slightest,ADJ,NOUN,n't the slightest idea what
-material,ADJ,NOUN,differ in material respects from
-subject,ADJ,NOUN,or is subject to liens
+Steffen,PROPN,VERB,", replacing Steffen W. Graae"
+az,PROPN,VERB,according to az - Zaman
+Charge,PROPN,VERB,' A Charge to Keep
+Charge,PROPN,VERB,' A Charge to Keep
+Charge,PROPN,VERB,""" A Charge to Keep"
+Met,PROPN,VERB,of the Met Garage )
+paulhastings.com,PROPN,VERB,name is paulhastings.com .
+Kristen,PROPN,VERB,"Kristen Quinn ,"
+amstel,PROPN,VERB,we have amstel lights together
+outlook,PROPN,VERB,open my outlook ) .
 ***,PUNCT,SYM,***
 <,PUNCT,SYM,"Spahnn "" < spahnn@hnks.com >"
 >,PUNCT,SYM,< spahnn@hnks.com >
@@ -49,18 +39,9 @@ subject,ADJ,NOUN,or is subject to liens
 <<,PUNCT,SYM,- TEXT.htm << File :
 >>,PUNCT,SYM,: TEXT.htm >>
 <,PUNCT,SYM,"Vangie "" < Vangie.McGilloway@powersrc.com >"
->,PUNCT,SYM,< Vangie.McGilloway@powersrc.com >
-<<,PUNCT,SYM,at http://explorer.msn.com << File :
->>,PUNCT,SYM,http://go.msn.com/bql/hmtag_itl_EN.asp ' >>
-************************************************,PUNCT,SYM,************************************************
-************************************************,PUNCT,SYM,************************************************
-<<,PUNCT,SYM,- Lisa_coverletter.doc << File :
->>,PUNCT,SYM,: Lisa_coverletter.doc >>
-<<,PUNCT,SYM,- Lisa_resume.doc << File :
->>,PUNCT,SYM,: Lisa_resume.doc >>
-~,PUNCT,SYM,~ CGoehring
 sheikh,NOUN,PROPN,The sheikh in wheel
 F,NOUN,PROPN,with a F - 16
+Excerpt,NOUN,PROPN,Excerpt :
 coalition,NOUN,PROPN,against the coalition soldiers in
 jihad,NOUN,PROPN,"fighting and jihad "" ."
 IPO,NOUN,PROPN,"Google 's IPO , most"
@@ -68,19 +49,9 @@ grace,NOUN,PROPN,by the grace of simplicity
 prophet,NOUN,PROPN,"about our prophet , but"
 prophet,NOUN,PROPN,"of their prophet , people"
 court,NOUN,PROPN,outside federal court in Detroit
-Applause,NOUN,PROPN,( Applause . )
-Applause,NOUN,PROPN,( Applause . )
-Applause,NOUN,PROPN,( Applause . )
-Applause,NOUN,PROPN,( Applause . )
-acquisition,NOUN,PROPN,been in acquisition mode .
-buck,NOUN,PROPN,for the buck than acquiring
-Neoconservatives,NOUN,PROPN,"CPA with Neoconservatives , most"
-Arabists,NOUN,PROPN,State Department Arabists been allowed
-shock,NOUN,PROPN,"style economic shock therapy ,"
-Neocon,NOUN,PROPN,given the Neocon predominance in
-coalition,NOUN,PROPN,direct access coalition must break
 bomb,NOUN,VERB,- launched bomb .
 hope,NOUN,VERB,and his hope in peace
+mistakes,NOUN,VERB,"people make mistakes , so"
 bomb,NOUN,VERB,a car bomb outside a
 move,NOUN,VERB,otherwise this move was a
 standing,NOUN,VERB,for US standing with local
@@ -88,57 +59,16 @@ passing,NOUN,VERB,Arafat 's passing for al
 strike,NOUN,VERB,a general strike .
 fight,NOUN,VERB,in a fight that left
 fighting,NOUN,VERB,that of fighting and jihad
-interface,NOUN,VERB,a simple interface are among
-fight,NOUN,VERB,witness the fight - for
-contest,NOUN,VERB,new fun contest :
-contest,NOUN,VERB,An international contest of cartoons
-show,NOUN,VERB,are on show .
-fighting,NOUN,VERB,The Fallujah fighting has killed
-battles,NOUN,VERB,The battles and demonstrations
-kidnapping,NOUN,VERB,so this kidnapping makes him
-vote,NOUN,VERB,"the Sunni vote , is"
-wish,NOUN,VERB,on Christmas wish lists this
-bomb,NOUN,VERB,has the bomb at the
-have,VERB,AUX,the israelians have all the
 be,VERB,AUX,there will be a wave
-had,VERB,AUX,has finally had an analyst
-do,VERB,AUX,week to do research projects
 's,VERB,AUX,; there 's a punchline
 was,VERB,AUX,", there was a big"
 had,VERB,AUX,of people had to die
 do,VERB,AUX,cartoonists to do their best
 had,VERB,AUX,", people had to die"
-has,VERB,AUX,the NYT has more on
-has,VERB,AUX,Jim Lobe has more on
-has,VERB,AUX,Sources which has some fun
 been,VERB,AUX,there have been tensions with
-have,VERB,AUX,is will have new nuclear
 have,VERB,AUX,will not have .
-has,VERB,AUX,be or has the right
 has,VERB,AUX,that Israel has over 200
-has,VERB,AUX,Ill also has the bomb
 has,VERB,AUX,North Korea has at least
-has,VERB,AUX,"is who has them ,"
-'s,PART,AUX,Today 's incident proves
-'s,PART,AUX,the company 's story to
-'s,PART,AUX,the company 's plans .
-'s,PART,AUX,the company 's self -
-'s,PART,AUX,of Arafat 's passing for
-'s,PART,AUX,""" Arafat 's secular nationalism"
-'s,PART,AUX,Arafat 's death creates
-'s,PART,AUX,Sharon 's assassination of
-'s,PART,AUX,condemned Sharon 's murder of
-'s,PART,AUX,"about Google 's IPO ,"
-'s,PART,AUX,"the country 's "" Iran"
-'s,PART,AUX,in Tehran 's Palestine Contemporary
-'s,PART,AUX,Allawi 's aged cousin
-'s,PART,AUX,the man 's wife and
-'s,PART,AUX,"Dan Froomkin 's "" White"
-'s,PART,AUX,of Ben 's annoucement yesterday
-'s,PART,AUX,- Sadr 's movement only
-'s,PART,AUX,Washington Monthly 's Who 's
-'s,PART,AUX,"the group 's "" striking"
-'s,PART,AUX,thinking Kenneally 's at around
 A,X,DET,A la guerre
 a,X,DET,c'est comme a la guerre
 A,X,DET,P D A T E
@@ -149,12 +79,10 @@ Déjà,X,PROPN,feeling of Déjà vu .
 Bryngelson@AZURIX,X,PROPN,Robert Bryngelson@AZURIX
 Warner@ENRON,X,PROPN,Traci Warner@ENRON COMMUNICATIONS on
 Griffith@ENRON,X,PROPN,John Griffith@ENRON
-Constellation,X,PROPN,file : Constellation Power (
 GISB,X,PROPN,Power ( GISB draft )
 ENRON-CPS,X,PROPN,- ENRON-CPS ( GISB
 GISB,X,PROPN,ENRON-CPS ( GISB rev1 )
 de,X,PROPN,remember is de lunde bar
-hill,X,PROPN,gone down hill
 guerre,X,NOUN,A la guerre c'est comme
 c'est,X,NOUN,la guerre c'est comme a
 comme,X,NOUN,guerre c'est comme a la
@@ -165,16 +93,6 @@ hoc,X,NOUN,", post hoc ergo propter"
 ergo,X,NOUN,post hoc ergo propter hoc
 propter,X,NOUN,hoc ergo propter hoc (
 hoc,X,NOUN,ergo propter hoc ( Z
-Power,X,NOUN,: Constellation Power ( GISB
-draft,X,NOUN,( GISB draft ) .doc
-rev1,X,NOUN,( GISB rev1 ) .doc
-3-5290,X,NOUN,( X 3-5290 ) regarding
-ible,X,NOUN,as poss ible .
-P,X,NOUN,- U P D A
-E,X,NOUN,A T E D -
-oone,X,NOUN,Can ssome oone please tell
-lunde,X,NOUN,is de lunde bar ..
-bar,X,NOUN,de lunde bar .. or
 outside,ADP,ADV,car bomb outside a police
 outside,ADP,ADV,told reporters outside federal court
 back,ADP,ADV,broker called back shortly after
@@ -193,16 +111,6 @@ few,ADJ,DET,"the past few years ,"
 few,ADJ,DET,take a few minutes and
 few,ADJ,DET,have a few experienced State
 many,ADJ,DET,dealing of many in the
-such,ADJ,DET,"As such , they"
-much,ADJ,DET,"realize how much "" stuff"
-few,ADJ,DET,are a few life theories
-many,ADJ,DET,still are many things that
-several,ADJ,DET,located in several sections .
-several,ADJ,DET,there are several blanks concerning
-such,ADJ,DET,"As such , we"
-such,ADJ,DET,"As such , we"
-many,ADJ,DET,calculate how many shares .
-such,ADJ,DET,", and such payment shall"
 US,PROPN,PRON,The US lost yet
 US,PROPN,PRON,out against US troops when
 US,PROPN,PRON,that the US army got
@@ -213,16 +121,6 @@ US,PROPN,PRON,US Marines moved
 US,PROPN,PRON,by the US assault on
 US,PROPN,PRON,The US Marines took
 US,PROPN,PRON,bedeviling the US for some
-US,PROPN,PRON,all the US wants is
-US,PROPN,PRON,"be the US , EU"
-US,PROPN,PRON,The US has strongly
-US,PROPN,PRON,neither the US nor any
-US,PROPN,PRON,time when US troops are
-US,PROPN,PRON,leaves 7 US soldiers dead
-U,PROPN,PRON,to discuss U of H
-US,PROPN,PRON,The US National Hurricane
-US,PROPN,PRON,quarter of US oil operations
-US,PROPN,PRON,told the US house science
 yet,ADV,CCONJ,US lost yet another helicopter
 yet,ADV,CCONJ,contact information yet for my
 yet,ADV,CCONJ,it as yet - you
@@ -232,26 +130,6 @@ yet,ADV,CCONJ,us that yet ...
 yet,ADV,CCONJ,had sex yet so it
 yet,ADV,CCONJ,I have yet to hear
 YET,ADV,CCONJ,Best YET !
-to,ADP,PART,another helicopter to hostile fire
-to,ADP,PART,seems clear to me that
-to,ADP,PART,'s story to the (
-to,ADP,PART,that look to bin Laden
-to,ADP,PART,bring peace to the region
-to,ADP,PART,customer base to the next
-to,ADP,PART,is comparable to what we
-to,ADP,PART,in response to the publication
-to,ADP,PART,"or sent to prison ,"
-to,ADP,PART,", according to az -"
-to,ADP,PART,loose connections to AQ Kahn
-to,ADP,PART,", which to this day"
-to,ADP,PART,To pander to the mythical
-to,ADP,PART,my way to my wedding
-to,ADP,PART,to return to Detroit via
-to,ADP,PART,to get to your answer
-to,ADP,PART,"Mozilla Foundation to Google ,"
-to,ADP,PART,- time to the advancement
-to,ADP,PART,"! "" to Darin Darin"
-to,ADP,PART,Brian Ryner to Google !
 out,ADV,ADP,demonstrators came out against US
 as,ADV,ADP,not quite as freewheeling an
 out,ADV,ADP,"- Qaida out , the"
@@ -262,36 +140,16 @@ around,ADV,ADP,"added that around 1,100 cartoons"
 as,ADV,ADP,"Huwaijah , as well ,"
 around,ADV,ADP,", ranks around fifth in"
 over,ADV,ADP,Israel has over 200 nuclear
-down,ADV,ADP,that rained down on Lebanon
-about,ADV,ADP,"family spent about $ 20,000"
-out,ADV,ADP,rush right out and rescue
-as,ADV,ADP,"do , as best as"
-above,ADV,ADP,have described above - with
-as,ADV,ADP,joined Google as well .
-as,ADV,ADP,"possible , as far as"
-out,ADV,ADP,non-Microsoft browser out there -
-in,ADV,ADP,been allowed in to try
-as,ADV,ADP,anything extraordinary as far as
 newlywed,ADJ,VERB,a yound newlywed bride .
 supple,ADJ,VERB,nationalism was supple enough to
 unrelated,ADJ,VERB,"an apparently unrelated incidents ,"
 blessed,ADJ,VERB,"it that blessed , laudatory"
+Unconfirmed,ADJ,VERB,", see Unconfirmed Sources which"
 loathe,ADJ,VERB,I am loathe to quote
 steep,ADJ,VERB,"up a steep cliff ,"
 lead,ADJ,VERB,is the lead engineer for
 unchanged,ADJ,VERB,"remain largely unchanged , I"
 devoted,ADJ,VERB,I remain devoted full -
-enlightened,ADJ,VERB,sort of enlightened self interest
-experienced,ADJ,VERB,a few experienced State Department
-wasted,ADJ,VERB,get all wasted and boob
-embarrassed,ADJ,VERB,I be embarrassed that I
-wasted,ADJ,VERB,to get wasted if anyone
-Fucking,ADJ,VERB,Fucking bitches !
-mean,ADJ,VERB,they are mean ?
-perverted,ADJ,VERB,i am perverted ?
-perverted,ADJ,VERB,'re the perverted old man
-rewarding,ADJ,VERB,been pretty rewarding .
-satisfying,ADJ,VERB,"affectionate , satisfying and harmonious"
 wrong,ADV,ADJ,"being done wrong , or"
 least,ADV,ADJ,among the least loyal you
 fifth,ADV,ADJ,ranks around fifth in nuclear
@@ -302,16 +160,6 @@ best,ADV,ADJ,", as best as I"
 closer,ADV,ADJ,particular future closer .
 long,ADV,ADJ,I have long been a
 better,ADV,ADJ,probably do better .
-higher,ADV,ADJ,all bid higher than ENA
-fifth,ADV,ADJ,to the fifth highest bid
-hard,ADV,ADJ,Work hard .
-hard,ADV,ADJ,Work hard and retire
-early,ADV,ADJ,and retire early .
-wide,ADV,ADJ,leaving yourself wide open for
-more,ADV,ADJ,have to more focus on
-more,ADV,ADJ,( much more knowledgeable than
-best,ADV,ADJ,fiction and best sellers .
-deadly,ADV,ADJ,"i am deadly serious ,"
 that,PRON,SCONJ,in ways that are bad
 that,PRON,SCONJ,Palestinian leadership that will not
 that,PRON,SCONJ,grow up that look to
@@ -322,16 +170,16 @@ That,PRON,SCONJ,That 's overstating
 that,PRON,SCONJ,European Union that meets with
 that,PRON,SCONJ,the evidence that the group
 that,PRON,SCONJ,nuclear weapons that other countries
-that,PRON,SCONJ,Right now that seems to
-that,PRON,SCONJ,the fees that they charge
-that,PRON,SCONJ,a situation that was totally
-that,PRON,SCONJ,from areas that were hit
-that,PRON,SCONJ,a phenomenon that is much
-that,PRON,SCONJ,provoked destruction that rained down
-That,PRON,SCONJ,That 's right
-that,PRON,SCONJ,no way that anybody helped
-that,PRON,SCONJ,in countries that house illegal
-that,PRON,SCONJ,illegal militias that attack other
+to,PART,ADP,a chance to present the
+to,PART,ADP,supple enough to compromise with
+to,PART,ADP,am loathe to quote other
+to,PART,ADP,is going to rock !
+to,PART,ADP,this opportunity to welcome Brian
+to,PART,ADP,they can to both shape
+to,PART,ADP,n't want to fall into
+to,PART,ADP,are going to party .
+to,PART,ADP,be ready to rock .
+to,PART,ADP,Administration wants to place all
 present,VERB,ADJ,chance to present the company
 respected,VERB,ADJ,of the respected Association of
 committed,VERB,ADJ,been absolutely committed to getting
@@ -340,18 +188,8 @@ close,VERB,ADJ,party would close ranks with
 strive,VERB,ADJ,Whatever you strive to do
 open,VERB,ADJ,forgot to open my outlook
 complete,VERB,ADJ,Please complete agreement and
+unsubscribe,VERB,ADJ,To unsubscribe ( or
 red,VERB,ADJ,on I red somewhere that
-converted,VERB,ADJ,I recently converted this test
-offended,VERB,ADJ,who is offended by my
-qualified,VERB,ADJ,which they qualified prior to
-close,VERB,ADJ,cents to close at 66.80
-advanced,VERB,ADJ,November delivery advanced 53 cents
-reveal,VERB,ADJ,time will reveal whether Griffin
-convinced,VERB,ADJ,as they convinced Hamas to
-certified,VERB,ADJ,can get certified in delaware
-Covert,VERB,ADJ,Covert into DVD
-aged,VERB,ADJ,People aged 13 -
-laid,VERB,ADJ,chameleon just laid eggs yesterday
 these,PRON,DET,"Usually , these are just"
 those,PRON,DET,somewhat like those of chemical
 This,PRON,DET,This is unlike
@@ -362,16 +200,6 @@ This,PRON,DET,This is not
 this,PRON,DET,He announced this in January
 this,PRON,DET,also announced this in January
 this,PRON,DET,none of this has been
-This,PRON,DET,This is one
-this,PRON,DET,world - this is what
-This,PRON,DET,This is either
-the,PRON,DET,are as the sucked on
-This,PRON,DET,This happened very
-this,PRON,DET,you received this in error
-those,PRON,DET,are solely those of the
-those,PRON,DET,"respects from those of ,"
-These,PRON,DET,These look fine
-those,PRON,DET,to all those that show
 for,SCONJ,ADP,a chance for the suckups
 as,SCONJ,ADP,an environment as you 'd
 for,SCONJ,ADP,too high for investors to
@@ -381,17 +209,7 @@ with,SCONJ,ADP,"2 , with the winners"
 for,SCONJ,ADP,is responsible for protecting his
 with,SCONJ,ADP,nuclear program with word coming
 With,SCONJ,ADP,With the demand
-for,SCONJ,ADP,they charge for evacuating U.S.
-as,SCONJ,ADP,be postponed as family members
-for,SCONJ,ADP,no way for us to
-about,SCONJ,ADP,questions was about whether Bush
-about,SCONJ,ADP,right now about memoirs being
-After,SCONJ,ADP,After you are
-about,SCONJ,ADP,n't thought about writing a
-about,SCONJ,ADP,hymn talks about serving something
-as,SCONJ,ADP,as best as I possibly
-about,SCONJ,ADP,random speculation about Google developiong
-about,SCONJ,ADP,damn serious about securing permanent
+to,SCONJ,ADP,arises on to who should
 work,VERB,NOUN,They work on Wall
 compromise,VERB,NOUN,enough to compromise with Israel
 reports,VERB,NOUN,Xinhua reports that a
@@ -402,16 +220,6 @@ raises,VERB,NOUN,if one raises doubts about
 doubt,VERB,NOUN,I highly doubt it will
 meeting,VERB,NOUN,were still meeting pockets of
 face,VERB,NOUN,but still face pockets of
-bedeviling,VERB,NOUN,go on bedeviling the US
-reports,VERB,NOUN,He reports that the
-blog,VERB,NOUN,ca n't blog much right
-building,VERB,NOUN,seeking and building the best
-arises,VERB,NOUN,the question arises on to
-posses,VERB,NOUN,that they posses nuclear weapons
-ranks,VERB,NOUN,"weapons , ranks around fifth"
-expresses,VERB,NOUN,her allies expresses the slightest
-evacuates,VERB,NOUN,zone and evacuates a bunch
-fled,VERB,NOUN,family members fled the outbreak
 eventually,ADJ,ADV,company who's eventually history will
 most,ADJ,ADV,"IPO , most investors have"
 most,ADJ,ADV,"shows , most Google users"
@@ -422,16 +230,6 @@ most,ADJ,ADV,citizens ( most of whom
 right,ADJ,ADV,"That 's right , folks"
 inside,ADJ,ADV,"have no inside information ,"
 most,ADJ,ADV,"Neoconservatives , most of whom"
-most,ADJ,ADV,"In most cases ,"
-further,ADJ,ADV,with any further questions .
-sooner,ADJ,ADV,a little sooner than I
-straight,ADJ,ADV,"and "" straight - dealing"
-alone,ADJ,ADV,leave you alone ..
-only,ADJ,ADV,The only agreement I
-most,ADJ,ADV,Making the most of mean
-hourly,ADJ,ADV,half - hourly price during
-Most,ADJ,ADV,Most of them
-only,ADJ,ADV,currently the only thing Abbas
 enough,ADV,DET,was supple enough to compromise
 enough,ADV,DET,remain strong enough to keep
 much,ADV,DET,n't blog much right now
@@ -442,35 +240,8 @@ much,ADV,DET,be very much involved with
 all,ADV,DET,to get all wasted and
 both,ADV,DET,we had both previously approved
 all,ADV,DET,You 've all won !
-all,ADV,DET,It is all about the
-all,ADV,DET,It s all interesting stuff
-all,ADV,DET,It 's all about the
-much,ADV,DET,account ( much more knowledgeable
-both,ADV,DET,walzem had both sold .
-much,ADV,DET,deal looks much better .
-all,ADV,DET,they 're all from 4gamer
-much,ADV,DET,maybe too much .
-much,ADV,DET,you very much and we
-all,ADV,DET,we 'll all be part
-that,DET,SCONJ,structures in that party .
-that,DET,SCONJ,"gave it that blessed ,"
-that,DET,SCONJ,not deny that fact that
-that,DET,SCONJ,"later , that wolf will"
-that,DET,SCONJ,us at that garden in
-that,DET,SCONJ,party later that night .
-that,DET,SCONJ,be getting that RFP .
-that,DET,SCONJ,trading to that area .
-That,DET,SCONJ,That way we
-That,DET,SCONJ,""" That kind of"
-that,DET,SCONJ,birding in that part of
-that,DET,SCONJ,empanadas from that area of
-that,DET,SCONJ,of from that area of
-that,DET,SCONJ,to do that sort of
-that,DET,SCONJ,n't soing that job
-that,DET,SCONJ,feel about that one .
 before,ADV,SCONJ,the day before .
 before,ADV,SCONJ,than ever before .
-that,ADV,SCONJ,is usually that good
 before,ADV,SCONJ,to it before ..
 though,ADV,SCONJ,of expensive though
 though,ADV,SCONJ,care of though .
@@ -478,9 +249,9 @@ though,ADV,SCONJ,place down though
 before,ADV,SCONJ,been charged before .
 though,ADV,SCONJ,smokehouse burger though !
 though,ADV,SCONJ,get into though because of
-that,ADV,SCONJ,is not that great .
 before,ADV,SCONJ,", never before has the"
 west,ADV,PROPN,50 km west of Baghdad
+Sooooo,ADV,PROPN,Sooooo .
 south,ADV,PROPN,home base south of Baghdad
 west,ADV,PROPN,( just west of the
 north,ADV,PROPN,", just north of Miami"
@@ -499,46 +270,16 @@ there,ADV,PRON,better over there .
 there,ADV,PRON,sadists out there who share
 there,ADV,PRON,good seafood there
 there,ADV,PRON,be vacationing there
-there,ADV,PRON,do around there ?
-there,ADV,PRON,most people there .
-there,ADV,PRON,or work there could you
-there,ADV,PRON,american girls there where i
-there,ADV,PRON,could get there by boat
-there,ADV,PRON,"things inside there , I"
-there,ADV,PRON,containers in there .
-there,ADV,PRON,up from there .
-there,ADV,PRON,in blue there !
-there,ADV,PRON,in blue there !
 Iraqi,PROPN,ADJ,left one Iraqi dead .
 Ill,PROPN,ADJ,Kim Jong Ill also has
 Monthly,PROPN,ADJ,The Washington Monthly 's Who
+Brant,PROPN,ADJ,forward to Brant if you
+Sheetal,PROPN,ADJ,"Hinze , Sheetal Patel ,"
+unitedway.enron.com,PROPN,ADJ,type in unitedway.enron.com in the
 o'neal,PROPN,ADJ,that both o'neal and matt
+Brant,PROPN,ADJ,forward to Brant if you
 Lone,PROPN,ADJ,"Ghulam Mohiuddin Lone , a"
 Lone,PROPN,ADJ,"interrogation , Lone ' confessed"
-http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial,PROPN,ADJ,http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial
-McDonal,PROPN,ADJ,McDonal s the
-Fair,PROPN,ADJ,World 's Fair museum was
-Mass,PROPN,ADJ,Hobbs on Mass .
-Federal,PROPN,ADJ,"10th & Federal Sts. ,"
-Free,PROPN,ADJ,Bridge Duty Free is located
-Electric,PROPN,ADJ,Conditioning & Electric Problems .
-Governing,VERB,PROPN,The interim Governing Council issued
-Aquire,VERB,PROPN,"to "" Aquire "" Firefox"
-Pledge,VERB,PROPN,How to Pledge :
-mark,VERB,PROPN,HR department mark the vacation
-Reverting,VERB,PROPN,Brownian Mean Reverting Jump Diffusion
-Deferred,VERB,PROPN,issue of Deferred Phantom Stock
-Deposited,VERB,PROPN,$ 5250 Deposited Directly to
-Listing,VERB,PROPN,Listing his priorities
-google,VERB,PROPN,google nazi stolen
-est,VERB,PROPN,650 k est stolen works
-ban,VERB,PROPN,Crack Barrel ban employees from
-ban,VERB,PROPN,think they ban if the
-lay,VERB,PROPN,Cockatiels can lay unfertilized eggs
-Cary,VERB,PROPN,have to Cary it with
-lay,VERB,PROPN,and probably lay eggs .
-Cheerleading,VERB,PROPN,dancing and Cheerleading .
-tan,VERB,PROPN,used to tan down the
 since,ADP,SCONJ,Ever since the first
 because,ADP,SCONJ,it is because of X
 until,ADP,SCONJ,the wedding until sunday now
@@ -549,27 +290,26 @@ before,ADP,SCONJ,it occupies before the 1967
 Before,ADP,SCONJ,"Before that ,"
 until,ADP,SCONJ,7 PM until 4 AM
 because,ADP,SCONJ,into though because of road
-because,ADP,SCONJ,walked out because of your
+that,DET,SCONJ,"gave it that blessed ,"
+that,DET,SCONJ,not deny that fact that
+that,DET,SCONJ,be getting that RFP .
+that,DET,SCONJ,n't soing that job
+that,SCONJ,DET,problem is that customers attracted
+that,SCONJ,DET,countries and that more than
+that,SCONJ,DET,is true that Google has
+that,SCONJ,DET,informed me that Section 7
+that,SCONJ,DET,is essential that HANO comply
+that,SCONJ,DET,say is that Elmira you
 appeal,NOUN,ADJ,when your appeal is in
 fair,NOUN,ADJ,staged this fair to explore
 fair,NOUN,ADJ,"and the fair organizer ,"
 fair,NOUN,ADJ,- long fair in Tehran
+noncombatants,NOUN,ADJ,"of Iraqi noncombatants , including"
 Welcome,NOUN,ADJ,"big "" Welcome ! """
 Admin,NOUN,ADJ,gives the Admin a very
+Consultant,NOUN,ADJ,-- Houston Consultant -- Energy
 original,NOUN,ADJ,delete the original .
 black,NOUN,ADJ,a pdf black - line
-gal,NOUN,ADJ,The gal from the
-transmittal,NOUN,ADJ,This transmittal and /
-transmittal,NOUN,ADJ,received this transmittal in error
-transmittal,NOUN,ADJ,of this transmittal is strictly
-transmittal,NOUN,ADJ,received this transmittal and /
-past,NOUN,ADJ,In the past there have
-past,NOUN,ADJ,in the past ... and
-directory,NOUN,ADJ,in the directory .
-coefficient,NOUN,ADJ,The coefficient and standard
-first,NOUN,ADJ,after the first of the
-promotional,NOUN,ADJ,you the promotional on 10300
-executive,NOUN,ADJ,longtime NASA executive Fred Gregory
 so,SCONJ,ADV,add features so they can
 once,SCONJ,ADV,not change once I got
 so,SCONJ,ADV,"Yahoo , so that we"
@@ -584,16 +324,6 @@ like,VERB,ADP,"you would like , we"
 like,VERB,ADP,I would like to see
 like,VERB,ADP,I would like to invite
 like,VERB,ADP,who would like to play
-like,VERB,ADP,", I like to wear"
-out,VERB,ADP,able to out perform their
-like,VERB,ADP,do you like : McDonald
-like,VERB,ADP,one i like the most
-like,VERB,ADP,I like Hayes Street
-like,VERB,ADP,why you like the job
-like,VERB,ADP,guys i like and one
-like,VERB,ADP,amd i like 2 guys
-like,VERB,ADP,I would like to say
-like,VERB,ADP,I will like the argentinian
 one,PRON,NUM,but if one raises doubts
 one,PRON,NUM,argue that one could have
 one,PRON,NUM,a corner one would n't
@@ -607,10 +337,7 @@ both,CCONJ,DET,sign for both slope &
 both,CCONJ,DET,of evaluating both our new
 both,CCONJ,DET,to launch both supplies and
 either,CCONJ,DET,expectations are either exceeded or
-Both,CCONJ,DET,Both Tina and
-Neither,CCONJ,DET,Neither me nor
 well,ADV,INTJ,", as well , according"
-well,ADV,INTJ,not bode well for Sunni
 well,ADV,INTJ,Google as well .
 well,ADV,INTJ,may as well just come
 well,ADV,INTJ,ENA as well ?
@@ -620,64 +347,35 @@ well,ADV,INTJ,seakness as well as women
 well,ADV,INTJ,", as well ."
 well,ADV,INTJ,might as well allow Hamas
 well,ADV,INTJ,eggs as well .
-Well,ADV,INTJ,Well kept facility
-well,ADV,INTJ,A very well established service
-well,ADV,INTJ,A well communicated and
-well,ADV,INTJ,piano pretty well .
-well,ADV,INTJ,clean and well run with
-well,ADV,INTJ,", as well as rude"
-Well,ADV,INTJ,Well worth a
-well,ADV,INTJ,personality as well as many
-well,ADV,INTJ,I thought well worth it
-az,PROPN,VERB,according to az - Zaman
-Charge,PROPN,VERB,' A Charge to Keep
-Charge,PROPN,VERB,' A Charge to Keep
-Charge,PROPN,VERB,""" A Charge to Keep"
-http://www.accenture.com,PROPN,VERB,address is http://www.accenture.com
-Met,PROPN,VERB,of the Met Garage )
-kent.shoemaker@ae.ge.com,PROPN,VERB,"directly to kent.shoemaker@ae.ge.com , copy"
-paulhastings.com,PROPN,VERB,name is paulhastings.com .
-Kristen,PROPN,VERB,"Kristen Quinn ,"
-amstel,PROPN,VERB,we have amstel lights together
-http://home.enron.com/employeemeeting,PROPN,VERB,event at http://home.enron.com/employeemeeting .
-Visit,PROPN,VERB,"Visit ,"
-Visit,PROPN,VERB,mane is Visit Phunnarungsi .
-Visit,PROPN,VERB,Visit
-LeT,PROPN,VERB,", a LeT man ,"
-Sat,PROPN,VERB,"Fri , Sat , or"
-CURES,PROPN,VERB,seller ALTERNATIVE CURES ) and
-HOPE,PROPN,VERB,during the HOPE VI redevelopment
-baguio,PROPN,VERB,going to baguio alone and
-r2d2,PROPN,VERB,is r2d2 a stupid
+to,ADP,PART,", according to az -"
+ta,ADP,PART,'m out ta here !
+to,ADP,PART,is subject to liens .
+to,ADP,PART,send it to .
+to,ADP,PART,can speak to ?
+to,ADP,PART,section pertains to terminated employees
+to,ADP,PART,"$ 3, to $ 5,000"
+to,ADP,PART,and go to
+to,ADP,PART,) go to : http://www.bbc.co.uk/email
+to,ADP,PART,"are new to "" The"
 intrepid,ADJ,PROPN,The intrepid Ed Wong
-Unconfirmed,ADJ,PROPN,", see Unconfirmed Sources which"
-Intrastate,ADJ,PROPN,for a Intrastate Gas Transportation
-Imperial,ADJ,PROPN,"Houston , Imperial Ballroom ."
-Aggregate,ADJ,PROPN,"term "" Aggregate Transporter Imbalance"
 Geometric,ADJ,PROPN,price using Geometric Brownian Mean
 Brownian,ADJ,PROPN,using Geometric Brownian Mean Reverting
+Kindest,ADJ,PROPN,"Kindest regards ,"
 Stochastic,ADJ,PROPN,Sungjoo Lee Stochastic Processes and
-Demented,ADJ,PROPN,Spastic 's Demented World is
-Uncensored,ADJ,PROPN,Unlimited - Uncensored - Secure
 East,ADJ,PROPN,---= 19 East / West
 West,ADJ,PROPN,East / West - Coast
-Specialized,ADJ,PROPN,- Coast Specialized Servers -
-Uncensored,ADJ,PROPN,Unlimited - Uncensored - Secure
 East,ADJ,PROPN,---= 19 East / West
 West,ADJ,PROPN,East / West - Coast
-Specialized,ADJ,PROPN,- Coast Specialized Servers -
 laden,ADJ,PROPN,and is laden with cadmium
-Officiol,ADJ,PROPN,"first "" Officiol "" touch"
-North,ADJ,PROPN,across the North American region
 to,SCONJ,PART,absolutely committed to getting out
-to,SCONJ,PART,arises on to who should
 to,SCONJ,PART,"already committed to leaving ,"
 to,SCONJ,PART,look forward to seeing you
-to,SCONJ,PART,looking forward to hearing from
 to,SCONJ,PART,day prior to notifying the
 to,SCONJ,PART,be similar to flying the
 ’s,AUX,PART,the world ’s ever seen
 ’s,AUX,PART,and what ’s scary is
+s,AUX,PART,My cat s Called Frank
+'s,AUX,PART,"The food 's okay ,"
 right,NOUN,ADV,has the right to be
 right,NOUN,ADV,everyone 's right to bilateral
 back,NOUN,ADV,for the back ..
@@ -686,10 +384,19 @@ away,NOUN,ADV,Quick take away .
 back,NOUN,ADV,up no back aches .
 right,NOUN,ADV,"defend your right , contact"
 back,NOUN,ADV,on the back of my
+do,AUX,VERB,not always do those three
+get,AUX,VERB,Do n't get married in
+did,AUX,VERB,How did the CPA
+have,AUX,VERB,Only recently have a few
+have,AUX,VERB,I have long been
+did,AUX,VERB,He did comment on
+had,AUX,VERB,which we had both previously
+got,AUX,VERB,old bed got tossed in
+had,AUX,VERB,& walzem had both sold
+does,AUX,VERB,does teacher 's
 past,SCONJ,ADJ,But getting past who should
 were,ADV,AUX,the lab were uranium is
 be,ADV,AUX,issued months be for .
-Sooooo,ADV,NOUN,Sooooo .
 home,ADV,NOUN,we drove home and all
 home,ADV,NOUN,"to get home , """
 foward,ADV,NOUN,not looking foward to that
@@ -700,39 +407,17 @@ bellow,ADV,NOUN,the link bellow which is
 hardy,ADV,NOUN,to party hardy for my
 way,ADV,NOUN,There are way more stranger
 thr,ADV,NOUN,open minded thr since the
-aways,ADV,NOUN,eggs will aways be infertile
-anyplace,ADV,NOUN,get off anyplace you want
-cross,ADV,NOUN,He cross examined witnesses
-front,ADV,NOUN,box out front .
-Soooo,ADV,NOUN,Soooo tasty !
-no,DET,INTJ,was absolutely no way for
-no,DET,INTJ,there was no way that
 No,DET,INTJ,No communications nothing
-no,DET,INTJ,I have no inside information
-no,DET,INTJ,whom had no administrative experience
-no,DET,INTJ,"experience , no Arabic ,"
-no,DET,INTJ,", and no respect for"
 no,DET,INTJ,bark and no bite .
-no,DET,INTJ,He gave no indication on
-No,DET,INTJ,No physical pledge
-no,DET,INTJ,There is no subterfuge in
-no,DET,INTJ,You have no interest in
-no,DET,INTJ,peace ... no more conflict
-no,DET,INTJ,conflict and no more differences
-no,DET,INTJ,there is no companion quite
-no,DET,INTJ,there are no real pictures
 no,DET,INTJ,"for "" no "" reason"
-no,DET,INTJ,"O'Keefe , no nominee has"
-no,DET,INTJ,there are no available public
-no,DET,INTJ,come to no surprise if
+No,DET,INTJ,No under 12's
+no,DET,INTJ,"pack , no ramp ,"
 communications,NOUN,X,No communications nothing .
 releases,NOUN,X,and 2.0 releases .
 H,NOUN,X,713.306.7940 ( H ) 713.864.4149
+Outlook.jpg,NOUN,X,Outlook.jpg
 ect,NOUN,X,"carrier , ect ."
 ect,NOUN,X,"steak , ect ."
-get,AUX,VERB,Do n't get married in
-got,AUX,VERB,old bed got tossed in
-get,AUX,VERB,I can get certified in
 /,SYM,PUNCT,browser and / or acquiring
 :-),SYM,PUNCT,and community :-)
 -,SYM,PUNCT,the Google - Mozilla /
@@ -741,42 +426,22 @@ get,AUX,VERB,I can get certified in
 -,SYM,PUNCT,from 1:30 - 2:30 to
 /,SYM,PUNCT,questions removed / blanks filled
 /,SYM,PUNCT,confidential and / or privileged
+______________________,SYM,PUNCT,______________________
 /,SYM,PUNCT,may and / or is
-/,SYM,PUNCT,transmittal and / or attachments
-/,SYM,PUNCT,transmittal and / or attachments
--,SYM,PUNCT,", 1998 - 30 June"
--,SYM,PUNCT,Intercept : - 0.3931 (
-:),SYM,PUNCT,- free :)
-:-),SYM,PUNCT,family !!!! :-)
-:),SYM,PUNCT,n't seak :)
-:-),SYM,PUNCT,'s lingerie :-) .
-/,SYM,PUNCT,19 East / West -
-/,SYM,PUNCT,19 East / West -
-:),SYM,PUNCT,in Argentina :)
 Welcome,INTJ,ADJ,Welcome Darin !
+Aquire,VERB,PROPN,"to "" Aquire "" Firefox"
+Pledge,VERB,PROPN,How to Pledge :
+Retire,VERB,PROPN,Retire young .
+mark,VERB,PROPN,HR department mark the vacation
+Listing,VERB,PROPN,Listing his priorities
+google,VERB,PROPN,google nazi stolen
+est,VERB,PROPN,650 k est stolen works
+ban,VERB,PROPN,Crack Barrel ban employees from
+ban,VERB,PROPN,think they ban if the
+lay,VERB,PROPN,Cockatiels can lay unfertilized eggs
 admidst,ADP,NOUN,be heard admidst the higher
 b/c,ADP,NOUN,want it b/c of the
 b/c,ADP,NOUN,are cool b/c of the
-Thanks,NOUN,INTJ,Thanks for the
-Thanks,NOUN,INTJ,"Thanks ,"
-Thanks,NOUN,INTJ,"Thanks ,"
-Thanks,NOUN,INTJ,"Thanks ,"
-Thanks,NOUN,INTJ,Thanks .
-Thanks,NOUN,INTJ,Thanks .
-Thanks,NOUN,INTJ,Thanks to all
-Thanks,NOUN,INTJ,Thanks for thinking
-Cheers,NOUN,INTJ,Cheers
-Thanks,NOUN,INTJ,Thanks .
-Thanks,NOUN,INTJ,Thanks
-Thanks,NOUN,INTJ,Thanks !!
-Thanks,NOUN,INTJ,Thanks for your
-Thanks,NOUN,INTJ,Thanks .
-Thanks,NOUN,INTJ,Thanks for the
-Thanks,NOUN,INTJ,"Thanks ,"
-Thanks,NOUN,INTJ,Thanks
-Thanks,NOUN,INTJ,Thanks
-thanks,NOUN,INTJ,thanks
-Thanks,NOUN,INTJ,"Thanks ,"
 X,NOUN,SYM,"happens after X , therefore"
 X,NOUN,SYM,"caused by X ) ,"
 X,NOUN,SYM,happens after X it is
@@ -787,32 +452,37 @@ $$$,NOUN,SYM,about the $$$ .
 X,NOUN,SYM,Crenshaw ( X 3-5290 )
 $$$,NOUN,SYM,"the same $$$ , please"
 for,X,ADP,months be for .
+To,X,ADP,Back In To The Grid
 right,INTJ,ADV,"in , right ?"
 btw,INTJ,ADV,"btw , they"
+Kenneally,PROPN,ADV,was thinking Kenneally 's at
+'s,PART,AUX,thinking Kenneally 's at around
+'s,PART,AUX,suspend everyone 's right to
 303-832-8160,NUM,NOUN,them at 303-832-8160 .
-08:02,NUM,NOUN,02/13/2001 08:02 PM
 713.837.1638,NUM,NOUN,Octel ) 713.837.1638 ( Client
 281.848.1619,NUM,NOUN,Client ) 281.848.1619 ( C
 713.306.7940,NUM,NOUN,C ) 713.306.7940 ( H
 713.864.4149,NUM,NOUN,H ) 713.864.4149 Kevin.A.Boone@accenture.com
-12:05,NUM,NOUN,08/16/2000 12:05 PM
 713-664-7478,NUM,NOUN,or at 713-664-7478 .
-03:14:14,NUM,NOUN,on 08/16/2000 03:14:14 PM
 853-3242,NUM,NOUN,713 ) 853-3242 Cell (
 705-7201,NUM,NOUN,713 ) 705-7201
-04/26/2001,NUM,NOUN,04/26/2001 07:17 AM
-07:17,NUM,NOUN,04/26/2001 07:17 AM
-04/25/01,NUM,NOUN,annotations on 04/25/01 12:42:55
-12:42:55,NUM,NOUN,on 04/25/01 12:42:55
 203.961.7523,NUM,NOUN,Dial :? 203.961.7523 Direct Fax
 203.674.7723,NUM,NOUN,Fax :? 203.674.7723 E-mail :?
-11:21,NUM,NOUN,08/17/2000 11:21 AM
-08/15/2000,NUM,NOUN,08/15/2000 06:23 PM
-06:23,NUM,NOUN,08/15/2000 06:23 PM
 while,NOUN,SCONJ,in a while .
+no,INTJ,DET,kidding and no i do
 b/c,SCONJ,NOUN,want it b/c it is
 b/c,SCONJ,NOUN,it now b/c it is
 altough,SCONJ,NOUN,"attention , altough there are"
+spahnn@hnks.com,PROPN,X,""" < spahnn@hnks.com >"
+http://www.accenture.com,PROPN,X,address is http://www.accenture.com
+H,PROPN,X,U of H 's endowment
+kent.shoemaker@ae.ge.com,PROPN,X,"directly to kent.shoemaker@ae.ge.com , copy"
+janesmith@paulhastings.com,PROPN,X,examples : janesmith@paulhastings.com and danjones@paulhastings.com
+danjones@paulhastings.com,PROPN,X,janesmith@paulhastings.com and danjones@paulhastings.com .
+noc@paulhastings.com,PROPN,X,us at noc@paulhastings.com .
+johnstaikos@paulhastings.com,PROPN,X,E-mail :? johnstaikos@paulhastings.com
+SOblander@carrfut.com,PROPN,X,SOblander@carrfut.com on 08/15/2000
+www.adobe.com,PROPN,X,FREE from www.adobe.com .
 whatever,INTJ,PRON,"whatever , you"
 He,INTJ,PRON,He - he
 he,INTJ,PRON,He - he .
@@ -827,19 +497,6 @@ K,NOUN,NUM,39 K Download
 22th,NOUN,NUM,November 22th 2005
 LD,NOUN,NUM,"ADHD , LD , and"
 one,NOUN,NUM,like this one is much
-MD,NOUN,NUM,"Preuss , MD , a"
-5th,NOUN,NUM,saturday Nov 5th .
-DVD,NOUN,NUM,Covert into DVD .
-one,NOUN,NUM,the one i like
-22nd,NOUN,NUM,is November 22nd and we
-one,NOUN,NUM,Which one should i
-one,NOUN,NUM,about that one .
-H,PROPN,X,U of H 's endowment
-T,PROPN,X,Jeffrey T Hodge
-Del,PROPN,X,males at Del Frisco 's
-Del,PROPN,X,going to Del Frisco 's
-Del,PROPN,X,females at Del Frisco 's
-Del,PROPN,X,going to Del Frisco 's
 AM,NOUN,AUX,04/26/2001 07:17 AM
 AM,NOUN,AUX,08/17/2000 11:21 AM
 AM,NOUN,AUX,10/08/99 08:52 AM
@@ -850,23 +507,20 @@ will,NOUN,AUX,around at will .
 AM,NOUN,AUX,05/22/2001 09:25 AM
 AM,NOUN,AUX,03/23/2001 10:13 AM
 AM,NOUN,AUX,03/29/2001 09:01 AM
-R,NOUN,AUX,R Square :
-must,NOUN,AUX,and a must see /
-AM,NOUN,AUX,11/16/2005 08:36:00 AM
-must,NOUN,AUX,is a must
-must,NOUN,AUX,Definitely a must .
-AM,NOUN,AUX,until 4 AM and had
-being,NOUN,AUX,a human being and not
-______________________,SYM,NOUN,______________________
-_________________________________________________________________,SYM,NOUN,_________________________________________________________________
-_____,SYM,NOUN,_____
+Thanks,NOUN,INTJ,"Thanks ,"
+Thanks,NOUN,INTJ,"Thanks ,"
+Thanks,NOUN,INTJ,"Thanks ,"
+Thanks,NOUN,INTJ,Thanks .
+Thanks,NOUN,INTJ,Thanks .
+Thanks,NOUN,INTJ,Thanks to all
+Cheers,NOUN,INTJ,Cheers
+Thanks,NOUN,INTJ,Thanks .
+Thanks,NOUN,INTJ,Thanks
+Thanks,NOUN,INTJ,Thanks !!
 redlined,VERB,X,clean and redlined version are
 OK,ADJ,INTJ,We are OK to execute
-well,ADJ,INTJ,all is well .
-well,ADJ,INTJ,Catriona is well and has
 sorry,ADJ,INTJ,sorry for not
 okay,ADJ,INTJ,Is this okay with you
-well,ADJ,INTJ,all is well with you
 OK,ADJ,INTJ,i s OK .
 ok,ADJ,INTJ,Is it ok for a
 okay,ADJ,INTJ,"food 's okay , but"
@@ -884,9 +538,13 @@ A,NOUN,DET,A / A Team 2
 all,NOUN,DET,"clarify "" all "" do"
 A,NOUN,DET,plumbing & A / C
 LU,INTJ,PROPN,LU
+Plz,INTJ,PROPN,Plz contact Shirley
+Heh,INTJ,PROPN,"Heh , yep"
 LMAO,INTJ,PROPN,"course , LMAO ."
+Erm,INTJ,PROPN,Erm ya How
 PLZ,INTJ,PROPN,WILL SOMEONE PLZ HELP ME
 YAY,INTJ,PROPN,"YAY , great"
+Yum,INTJ,PROPN,Yum .
 M,PROPN,AUX,- M
 IS,PROPN,AUX,Lexus IS 300 .
 s,PROPN,AUX,s
@@ -931,24 +589,6 @@ half,ADJ,NUM,use Queensland half - hourly
 &,CCONJ,SYM,Clean & tidy with
 &,CCONJ,SYM,good atmosphere & pleasant staff
 &,CCONJ,SYM,S. 10th & Federal Sts.
-&,CCONJ,SYM,Air Conditioning & Electric Problems
-&,CCONJ,SYM,for plumbing & A /
-Plz,INTJ,NOUN,Plz contact Shirley
-hahaha,INTJ,NOUN,ragnarok 2 hahaha since the
-sry,INTJ,NOUN,links soon sry .
-Heh,INTJ,NOUN,"Heh , yep"
-Greetings,INTJ,NOUN,Greetings .
-Er,INTJ,NOUN,"Er , no"
-Hell,INTJ,NOUN,Hell no .
-Erm,INTJ,NOUN,Erm ya How
-lols,INTJ,NOUN,in England lols ?
-plllz,INTJ,NOUN,reasons plllz
-yuck,INTJ,NOUN,yuck !!
-ewww,INTJ,NOUN,"animals , ewww"
-eh,INTJ,NOUN,", food eh , beer"
-eh,INTJ,NOUN,beer list eh ...
-Yum,INTJ,NOUN,Yum .
-yum,INTJ,NOUN,"volcano , yum !"
 what,DET,PRON,me know what time we
 which,DET,PRON,n't understand which date will
 what,DET,PRON,semi-objective ( what blogger is
@@ -959,11 +599,16 @@ What,DET,PRON,What kind of
 what,DET,PRON,to know what kind food
 what,DET,PRON,and around what time they
 which,DET,PRON,.. in which all places
-what,DET,PRON,1 ) what islad of
-What,DET,PRON,What a hidden
-what,DET,PRON,WOW what stunning views
-What,DET,PRON,What a neat
-What,DET,PRON,What a joy
+hahaha,INTJ,NOUN,ragnarok 2 hahaha since the
+sry,INTJ,NOUN,links soon sry .
+Greetings,INTJ,NOUN,Greetings .
+Er,INTJ,NOUN,"Er , no"
+Hell,INTJ,NOUN,Hell no .
+lols,INTJ,NOUN,in England lols ?
+plllz,INTJ,NOUN,reasons plllz
+yuck,INTJ,NOUN,yuck !!
+ewww,INTJ,NOUN,"animals , ewww"
+eh,INTJ,NOUN,", food eh , beer"
 i,AUX,PRON,3rd Dec i s OK
 s,X,AUX,Dec i s OK .
 d,X,AUX,so woul d be grateful
@@ -985,15 +630,6 @@ over,NOUN,ADP,stop - over in San
 Off,NOUN,ADP,Rip Off !
 out,NOUN,ADP,check - out .
 up,NOUN,ADP,hour line up in the
-----==,PUNCT,NOUN,----== Posted via
-==----,PUNCT,NOUN,Usenet News ==----
----=,PUNCT,NOUN,---= 19 East
-=---,PUNCT,NOUN,via Encryption =---
-----==,PUNCT,NOUN,----== Posted via
-==----,PUNCT,NOUN,Usenet News ==----
----=,PUNCT,NOUN,---= 19 East
-=---,PUNCT,NOUN,via Encryption =---
-♥,PUNCT,NOUN,and ask ♥
 perform,X,VERB,to out perform their bureaucratic
 informed,X,VERB,very miss informed people !!
 cooked,X,VERB,all over cooked was good
@@ -1019,6 +655,7 @@ priced,X,ADJ,Over priced for Mexican
 ssome,PRON,VERB,Can ssome oone please
 plus,NOUN,CCONJ,".... another plus , it"
 beacuse,SCONJ,VERB,it 's beacuse you love
+♥,PUNCT,NOUN,and ask ♥
 sm,DET,NOUN,to hav sm good time
 anothers,DET,NOUN,to try anothers please ?
 da,DET,PROPN,kollam @ da syd f
@@ -1035,11 +672,10 @@ bc,SCONJ,PROPN,named Achilles bc as a
 but,ADP,CCONJ,know anything but the hype
 but,ADP,CCONJ,have nothing but fantastic things
 n,PART,PROPN,I du n no what
-no,VERB,INTJ,du n no what to
+no,VERB,DET,du n no what to
 x,X,SYM,etc etc x
 A,SYM,DET,garage door A ++++++++++++++++++
 A,SYM,DET,A ++
 A,SYM,DET,'s an A + and
-To,X,PART,Back In To The Grid
 d,ADJ,AUX,for me d / t
 t,ADP,X,d / t the huge
