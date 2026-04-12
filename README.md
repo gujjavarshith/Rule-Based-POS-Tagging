@@ -43,25 +43,25 @@ The system includes four **innovation modules** that extend the baseline with pr
 
 The tagger uses the **17 UPOS tags** defined by the [Universal Dependencies](https://universaldependencies.org/u/pos/) project:
 
-| Tag | Category | Description | Examples |
-|-----|----------|-------------|----------|
-| `ADJ` | Open class | Adjective | *big, old, green, first* |
-| `ADP` | Closed class | Adposition (preposition/postposition) | *in, to, during, of* |
-| `ADV` | Open class | Adverb | *very, tomorrow, down, where* |
-| `AUX` | Closed class | Auxiliary verb | *is, has, will, should, can* |
-| `CCONJ` | Closed class | Coordinating conjunction | *and, or, but* |
-| `DET` | Closed class | Determiner | *a, the, this, every* |
-| `INTJ` | Open class | Interjection | *oh, wow, yes, hello* |
-| `NOUN` | Open class | Noun | *girl, cat, tree, air* |
-| `NUM` | Open class | Numeral | *1, 2025, one, seventy-seven* |
-| `PART` | Closed class | Particle | *not, 's, to* (infinitive marker) |
-| `PRON` | Closed class | Pronoun | *I, you, he, myself, who* |
-| `PROPN` | Open class | Proper noun | *Mary, London, NASA* |
-| `PUNCT` | Other | Punctuation | *. , ; : ! ?* |
-| `SCONJ` | Closed class | Subordinating conjunction | *if, while, that, because* |
-| `SYM` | Other | Symbol | *$, %, §, ©, +, :), #* |
-| `VERB` | Open class | Verb | *run, eat, runs, ate, running* |
-| `X` | Other | Other (foreign words, typos, etc.) | *guten, xfgh, etc.* |
+| Tag     | Category     | Description                           | Examples                          |
+| ------- | ------------ | ------------------------------------- | --------------------------------- |
+| `ADJ`   | Open class   | Adjective                             | _big, old, green, first_          |
+| `ADP`   | Closed class | Adposition (preposition/postposition) | _in, to, during, of_              |
+| `ADV`   | Open class   | Adverb                                | _very, tomorrow, down, where_     |
+| `AUX`   | Closed class | Auxiliary verb                        | _is, has, will, should, can_      |
+| `CCONJ` | Closed class | Coordinating conjunction              | _and, or, but_                    |
+| `DET`   | Closed class | Determiner                            | _a, the, this, every_             |
+| `INTJ`  | Open class   | Interjection                          | _oh, wow, yes, hello_             |
+| `NOUN`  | Open class   | Noun                                  | _girl, cat, tree, air_            |
+| `NUM`   | Open class   | Numeral                               | _1, 2025, one, seventy-seven_     |
+| `PART`  | Closed class | Particle                              | _not, 's, to_ (infinitive marker) |
+| `PRON`  | Closed class | Pronoun                               | _I, you, he, myself, who_         |
+| `PROPN` | Open class   | Proper noun                           | _Mary, London, NASA_              |
+| `PUNCT` | Other        | Punctuation                           | _. , ; : ! ?_                     |
+| `SCONJ` | Closed class | Subordinating conjunction             | _if, while, that, because_        |
+| `SYM`   | Other        | Symbol                                | _$, %, §, ©, +, :), #_            |
+| `VERB`  | Open class   | Verb                                  | _run, eat, runs, ate, running_    |
+| `X`     | Other        | Other (foreign words, typos, etc.)    | _guten, xfgh, etc._               |
 
 ---
 
@@ -121,12 +121,12 @@ The tagger applies rules in **four passes** over each sentence. Within each pass
 
 Four modules extend the baseline tagger (located in `innovation/`):
 
-| Module | File | What It Does |
-|--------|------|--------------|
-| **Prefix Rules** | `prefix_rules.py` | Tags OOV words using English prefixes (`un-` → ADJ, `re-` → VERB, `anti-` → ADJ, etc.) |
-| **Web Token Rules** | `web_token_rules.py` | Detects URLs, emails, hashtags, @mentions, timestamps, dates, and decorative punctuation |
-| **Compound Context** | `compound_context.py` | Recognises multi-word proper nouns (*"New York"*, *"Wall Street"*), compound adpositions (*"because of"*), and sentence-initial proper nouns |
-| **Context Override** | `context_override.py` | Post-processing Brill-style rules that fix systematic errors (e.g., possessive *'s* AUX→PART, *to* PART→ADP before nouns, *have/do* AUX→VERB as main verbs) |
+| Module               | File                  | What It Does                                                                                                                                                |
+| -------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Prefix Rules**     | `prefix_rules.py`     | Tags OOV words using English prefixes (`un-` → ADJ, `re-` → VERB, `anti-` → ADJ, etc.)                                                                      |
+| **Web Token Rules**  | `web_token_rules.py`  | Detects URLs, emails, hashtags, @mentions, timestamps, dates, and decorative punctuation                                                                    |
+| **Compound Context** | `compound_context.py` | Recognises multi-word proper nouns (_"New York"_, _"Wall Street"_), compound adpositions (_"because of"_), and sentence-initial proper nouns                |
+| **Context Override** | `context_override.py` | Post-processing Brill-style rules that fix systematic errors (e.g., possessive _'s_ AUX→PART, _to_ PART→ADP before nouns, _have/do_ AUX→VERB as main verbs) |
 
 ---
 
@@ -246,6 +246,7 @@ python main.py run-all
 ```
 
 This produces:
+
 - `outputs/lexicon.pkl` — serialised word-tag lexicon
 - `outputs/results_baseline_test.json` — baseline per-tag metrics
 - `outputs/results_final_test.json` — innovation per-tag metrics
@@ -316,25 +317,25 @@ python main.py build-lexicon
 
 Performance on the **UD EWT test set** (25,094 tokens):
 
-| Tag | Precision | Recall | F1 Score | Support |
-|-----|--------:|-------:|-------:|--------:|
-| PUNCT | 0.9835 | 0.9803 | **0.9819** | 3,096 |
-| CCONJ | 0.9902 | 0.9633 | **0.9766** | 736 |
-| PRON | 0.9639 | 0.9251 | **0.9441** | 2,164 |
-| DET | 0.9169 | 0.9594 | **0.9377** | 1,897 |
-| AUX | 0.8183 | 0.9955 | **0.8982** | 1,543 |
-| ADP | 0.8685 | 0.8840 | **0.8762** | 2,025 |
-| ADJ | 0.9041 | 0.8484 | **0.8754** | 1,788 |
-| ADV | 0.9476 | 0.7750 | **0.8527** | 1,191 |
-| NOUN | 0.8196 | 0.8748 | **0.8463** | 4,123 |
-| NUM | 0.8767 | 0.8137 | **0.8440** | 542 |
-| VERB | 0.8723 | 0.8131 | **0.8416** | 2,605 |
-| PART | 0.7210 | 0.8921 | **0.7975** | 649 |
-| PROPN | 0.8804 | 0.7166 | **0.7901** | 2,075 |
-| SCONJ | 0.6059 | 0.5885 | **0.5971** | 384 |
-| INTJ | 0.4533 | 0.8430 | **0.5896** | 121 |
-| SYM | 0.4476 | 0.5664 | **0.5000** | 113 |
-| X | 0.0533 | 0.0952 | **0.0684** | 42 |
+| Tag   | Precision | Recall |   F1 Score | Support |
+| ----- | --------: | -----: | ---------: | ------: |
+| PUNCT |    0.9835 | 0.9803 | **0.9819** |   3,096 |
+| CCONJ |    0.9902 | 0.9633 | **0.9766** |     736 |
+| PRON  |    0.9639 | 0.9251 | **0.9441** |   2,164 |
+| DET   |    0.9169 | 0.9594 | **0.9377** |   1,897 |
+| AUX   |    0.8183 | 0.9955 | **0.8982** |   1,543 |
+| ADP   |    0.8685 | 0.8840 | **0.8762** |   2,025 |
+| ADJ   |    0.9041 | 0.8484 | **0.8754** |   1,788 |
+| ADV   |    0.9476 | 0.7750 | **0.8527** |   1,191 |
+| NOUN  |    0.8196 | 0.8748 | **0.8463** |   4,123 |
+| NUM   |    0.8767 | 0.8137 | **0.8440** |     542 |
+| VERB  |    0.8723 | 0.8131 | **0.8416** |   2,605 |
+| PART  |    0.7210 | 0.8921 | **0.7975** |     649 |
+| PROPN |    0.8804 | 0.7166 | **0.7901** |   2,075 |
+| SCONJ |    0.6059 | 0.5885 | **0.5971** |     384 |
+| INTJ  |    0.4533 | 0.8430 | **0.5896** |     121 |
+| SYM   |    0.4476 | 0.5664 | **0.5000** |     113 |
+| X     |    0.0533 | 0.0952 | **0.0684** |      42 |
 
 > **Overall Accuracy: 87.51%** (final, with innovation) vs **87.63%** (baseline)
 
@@ -342,13 +343,13 @@ Performance on the **UD EWT test set** (25,094 tokens):
 
 Each row shows accuracy when a specific rule module is **disabled**:
 
-| Rule Disabled | Accuracy | Drop from Full |
-|---------------|-------:|-------:|
-| None (full system) | **87.22%** | — |
-| `context` | 87.20% | −0.02% |
-| `morphology` | 86.87% | −0.35% |
-| `capitalization` | 85.73% | −1.49% |
-| `lexicon` | 56.56% | −30.66% |
+| Rule Disabled      |   Accuracy | Drop from Full |
+| ------------------ | ---------: | -------------: |
+| None (full system) | **87.22%** |              — |
+| `context`          |     87.20% |         −0.02% |
+| `morphology`       |     86.87% |         −0.35% |
+| `capitalization`   |     85.73% |         −1.49% |
+| `lexicon`          |     56.56% |        −30.66% |
 
 **Key Insight:** The **lexicon** is by far the most critical component, contributing ~30% of overall accuracy. **Capitalization** is the second most impactful rule, adding ~1.5% by detecting proper nouns.
 
@@ -358,14 +359,14 @@ Each row shows accuracy when a specific rule module is **disabled**:
 
 The `notebooks/` directory contains Jupyter notebooks documenting the full analysis workflow:
 
-| Notebook | Description |
-|----------|-------------|
-| `01_eda.ipynb` | Exploratory data analysis — tag distributions, sentence lengths, word ambiguity |
-| `02_baseline_eval.ipynb` | Baseline tagger evaluation with visualisations |
-| `03_error_analysis.ipynb` | Detailed error analysis — top confusion pairs, error examples |
-| `04_ablation.ipynb` | Ablation study — contribution of each rule module |
-| `05_rule_coverage_and_oov_analysis.ipynb` | Rule coverage distribution and OOV word analysis |
-| `06_innovation.ipynb` | Evaluation of innovation modules and comparison with baseline |
+| Notebook                                  | Description                                                                     |
+| ----------------------------------------- | ------------------------------------------------------------------------------- |
+| `01_eda.ipynb`                            | Exploratory data analysis — tag distributions, sentence lengths, word ambiguity |
+| `02_baseline_eval.ipynb`                  | Baseline tagger evaluation with visualisations                                  |
+| `03_error_analysis.ipynb`                 | Detailed error analysis — top confusion pairs, error examples                   |
+| `04_ablation.ipynb`                       | Ablation study — contribution of each rule module                               |
+| `05_rule_coverage_and_oov_analysis.ipynb` | Rule coverage distribution and OOV word analysis                                |
+| `06_innovation.ipynb`                     | Evaluation of innovation modules and comparison with baseline                   |
 
 To run the notebooks:
 
